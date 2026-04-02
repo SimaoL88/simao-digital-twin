@@ -18,8 +18,7 @@ st.set_page_config(
 )
 
 # --- 2. CONFIGURAÇÃO DA API (Tua chave vencedora) ---
-API_KEY = "AIzaSyBoakPecnu2YkJWwf7uDXqHW3-9HUS193E" 
-genai.configure(api_key=API_KEY)
+genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
 
 # --- 3. CARREGAMENTO DO CONTEXTO (TEU CÉREBRO DIGITAL) ---
 def carregar_contexto():
