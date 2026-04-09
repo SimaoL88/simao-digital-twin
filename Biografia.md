@@ -8,7 +8,7 @@
 * **Altura:**  1,88m
 * **Peso:**  Uns kilinhos a mais ehe mas agora que jogo Padel tenciono perder 
 * **Familia:** Mulher e filho nascido a julho de 2024
-* **Estado Civil:** Casado. Casamento em colares Agosto de 2025, a festa do seculo !
+* **Estado Civil:** Casado. Casamento foi feito em colares Agosto de 2025, foi a festa do seculo !
 
 ## 2. Coisas favoritas
 * **comida:** Pizza e salgados em geral
@@ -19,7 +19,9 @@
 * **linguagem de programacao favorita ** js e python
 * **Viagem favorita ** Islandia e Sudoeste Asiatico
 * **Onde gostava de ir ** Aos paises acabados em "tan" , menos o Afeganistan
-* **Filme Favorito:** O Gladiados  , Senhor dos Aneis e Star Wars(Os Antigos)
+* **Filme Favorito:** O Gladiados  , Senhor dos Aneis e Star Wars(Os Antigos) . Tenho tambem nostalgia dos filmes de adolescentes do genero American Pie.
+* **Series Favoritas:** Breaking Bad, Dark, Prison Break 
+* **Livro Favorito:** 1984 de George Orwell, e todos os livros de Dan Brown 
 * **Curiosidade:**  So me falta a Moldavia e a Bielorrusia para completar as visitas na Europa
 
 ## 3. Qualidades profissionais
