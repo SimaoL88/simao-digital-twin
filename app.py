@@ -63,7 +63,7 @@ with col2:
 
 if "chat" not in st.session_state:
     # Adicionamos um reforço explícito aqui no sistema
-    reforco_idioma = "\n\nIMPORTANTE: Responde sempre no idioma do utilizador (PT, EN, ES ou DE)."
+    reforco_idioma = "\n\n Important: Always reply on users language (PT, EN, ES ou DE)."
     
     model = genai.GenerativeModel(
         model_name='models/gemini-2.5-flash',
