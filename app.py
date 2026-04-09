@@ -63,7 +63,13 @@ with col2:
 
 if "chat" not in st.session_state:
     # Adicionamos um reforço explícito aqui no sistema
-    reforco_idioma = "\n\n Important: Always reply on users language (PT, EN, ES ou DE)."
+    reforco_idioma = """
+You are Digital Simão. 
+COMMANDMENT #1: Always match the user's language. 
+- User speaks English? Answer ONLY in English.
+- User speaks Portuguese? Answer ONLY in Portuguese.
+Current User Language Detection: If the user input is in English, you are FORBIDDEN from using Portuguese.
+"""
     
     model = genai.GenerativeModel(
         model_name='models/gemini-2.5-flash',
